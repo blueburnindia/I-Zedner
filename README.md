@@ -1,4 +1,4 @@
-# TrebleShot libre software file and text sharing app
+# I-Zender is clone of TrebleShot libre software for shaing Files in Android
 Send and receive files over available connections. [FAQ](https://github.com/genonbeta/TrebleShot/blob/master/FAQ.md).
 
 ## Get it on
