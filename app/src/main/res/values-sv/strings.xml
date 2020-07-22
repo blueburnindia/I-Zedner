@@ -85,7 +85,7 @@
     <string name="butn_multiSelect">Markera flera</string>
     <string name="butn_receive">Ta emot</string>
     <string name="butn_block">Blockera</string>
-    <string name="text_aboutSummary">Denna programvara är utvecklad av Genonbeta Libre Software Org</string>
+    <string name="text_aboutSummary">Denna programvara är utvecklad av BlueBurn Technologies</string>
     <string name="butn_appLaunch">Starta</string>
     <string name="ques_launchApplication">Vill du starta denna appen\?</string>
     <string name="mesg_launchApplicationError">Appen går inte att starta</string>

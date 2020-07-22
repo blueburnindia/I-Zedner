@@ -86,7 +86,7 @@
     <string name="butn_multiSelect">מצב סימון מרובה</string>
     <string name="butn_receive">קבלה</string>
     <string name="butn_block">חסימה</string>
-    <string name="text_aboutSummary">תכנית זו מפותחת על ידי Genonbeta Libre Software Org</string>
+    <string name="text_aboutSummary">תכנית זו מפותחת על ידי BlueBurn Technologies</string>
     <string name="butn_appLaunch">הפעלה</string>
     <string name="ques_launchApplication">להפעיל יישומון זה\?</string>
     <string name="mesg_launchApplicationError">לא ניתן להפעיל יישומון זה</string>

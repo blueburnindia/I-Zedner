@@ -86,7 +86,7 @@
     <string name="butn_multiSelect">Wybór wielokrotny</string>
     <string name="butn_receive">Odbierz</string>
     <string name="butn_block">Blok</string>
-    <string name="text_aboutSummary">To oprogramowanie zostało opracowane przez Genonbeta Libre Software Org</string>
+    <string name="text_aboutSummary">To oprogramowanie zostało opracowane przez BlueBurn Technologies</string>
     <string name="butn_appLaunch">Uruchamianie</string>
     <string name="ques_launchApplication">Czy chcesz uruchomić tę aplikację\?</string>
     <string name="mesg_launchApplicationError">Ta aplikacja nie może zostać uruchomiona</string>

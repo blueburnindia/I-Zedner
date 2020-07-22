@@ -89,7 +89,7 @@
     <string name="mesg_connectionProblem">Проблема соединения</string>
     <string name="butn_multiSelect">Выбрать несколько</string>
     <string name="butn_receive">Принять</string>
-    <string name="text_aboutSummary">Это ПО разработано Genonbeta Libre Software Org</string>
+    <string name="text_aboutSummary">Это ПО разработано BlueBurn Technologies</string>
     <string name="ques_launchApplication">Вы хотите запустить это приложение\?</string>
     <string name="mesg_launchApplicationError">Это приложение не может быть запущено</string>
     <string name="text_enterText">Введите текст здесь…</string>

@@ -79,7 +79,7 @@
     <string name="butn_multiSelect">Multi seleksi</string>
     <string name="butn_receive">Terima</string>
     <string name="butn_block">Blokir</string>
-    <string name="text_aboutSummary">Software ini dikembangkan oleh Genonbeta Libre Software Org</string>
+    <string name="text_aboutSummary">Software ini dikembangkan oleh BlueBurn Technologies</string>
     <string name="butn_appLaunch">Jalankan</string>
     <string name="ques_launchApplication">Apakah anda ingin menjalankan aplikasi ini\?</string>
     <string name="mesg_launchApplicationError">Aplikasi tidak dapat dijalankan</string>

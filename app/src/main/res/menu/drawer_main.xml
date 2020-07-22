@@ -76,6 +76,7 @@
         <item
             android:id="@+id/menu_activity_main_ts_dt"
             android:orderInCategory="18"
+            android:visible="false"
             app:actionLayout="@layout/layout_main_navigationview_footer"
             tools:ignore="MenuTitle" />
 

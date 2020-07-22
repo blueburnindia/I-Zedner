@@ -101,7 +101,7 @@
     <string name="butn_multiSelect">Meerdere selecteren</string>
     <string name="butn_receive">Ontvangen</string>
     <string name="butn_block">Blokkeren</string>
-    <string name="text_aboutSummary">Deze software is ontwikkeld door de Genonbeta Libre Software Org</string>
+    <string name="text_aboutSummary">Deze software is ontwikkeld door de BlueBurn Technologies</string>
     <string name="butn_appLaunch">Starten</string>
     <string name="ques_launchApplication">Wil je deze app starten?</string>
     <string name="mesg_launchApplicationError">Deze app kan niet worden gestart</string>

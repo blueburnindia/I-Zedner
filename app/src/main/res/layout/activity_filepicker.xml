@@ -5,11 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="false"
-    tools:context=".activity.FilePickerActivity">
+    tools:context="com.blueburn.izender.activity.FilePickerActivity">
 
     <fragment
         android:id="@+id/activitiy_filepicker_fragment_files"
-        android:name="com.genonbeta.TrebleShot.fragment.FileExplorerFragment"
+        android:name="com.blueburn.izender.fragment.FileExplorerFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

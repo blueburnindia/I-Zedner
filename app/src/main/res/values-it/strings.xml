@@ -91,7 +91,7 @@
     <string name="butn_multiSelect">Selezione Multipla</string>
     <string name="butn_receive">Ricevi</string>
     <string name="butn_block">Blocca</string>
-    <string name="text_aboutSummary">Programma sviluppato da Genonbeta Libre Software Org</string>
+    <string name="text_aboutSummary">Programma sviluppato da BlueBurn Technologies</string>
     <string name="butn_appLaunch">Avvia</string>
     <string name="ques_launchApplication">Vuoi avviare questa applicazione?</string>
     <string name="mesg_launchApplicationError">Questa applicazione non può essere avviata</string>

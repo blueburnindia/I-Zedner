@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="false"
-    tools:context=".activity.AboutActivity">
+    tools:context="com.blueburn.izender.activity.AboutActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/app_bar"
@@ -71,8 +71,8 @@
                             android:layout_marginBottom="15dp"
                             android:background="?roundSelector"
                             android:padding="15dp"
-                            app:srcCompat="@drawable/ic_genonbeta_white_36dp"
-                            app:tint="?colorSecondary" />
+                            app:srcCompat="@drawable/blueburn"
+                            />
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -89,7 +89,8 @@
                         android:background="?rectSelector"
                         android:gravity="center_vertical"
                         android:orientation="horizontal"
-                        android:padding="15dp">
+                        android:padding="15dp"
+                        android:visibility="visible">
 
                         <ImageView
                             android:layout_width="wrap_content"
@@ -98,7 +99,7 @@
                             android:layout_marginLeft="15dp"
                             android:layout_marginEnd="30dp"
                             android:layout_marginRight="30dp"
-                            app:srcCompat="@drawable/ic_github_circle_white_24dp"
+                            app:srcCompat="@drawable/ic_web_white_24dp"
                             app:tint="?colorControlNormal" />
 
                         <TextView
@@ -116,7 +117,8 @@
                         android:background="?rectSelector"
                         android:gravity="center_vertical"
                         android:orientation="horizontal"
-                        android:padding="15dp">
+                        android:padding="15dp"
+                        android:visibility="gone">
 
                         <ImageView
                             android:layout_width="wrap_content"
@@ -169,7 +171,8 @@
                         android:background="?rectSelector"
                         android:gravity="center_vertical"
                         android:orientation="horizontal"
-                        android:padding="15dp">
+                        android:padding="15dp"
+                        android:visibility="gone">
 
                         <ImageView
                             android:layout_width="wrap_content"
@@ -195,7 +198,8 @@
                         android:background="?rectSelector"
                         android:gravity="center_vertical"
                         android:orientation="horizontal"
-                        android:padding="15dp">
+                        android:padding="15dp"
+                        android:visibility="gone">
 
                         <ImageView
                             android:layout_width="wrap_content"
@@ -232,6 +236,7 @@
                     android:layout_height="wrap_content"
                     android:padding="15dp"
                     android:text="@string/conf_licence"
+                    android:visibility="gone"
                     app:fontFamily="monospace" />
 
             </androidx.cardview.widget.CardView>
@@ -242,7 +247,8 @@
                 android:layout_marginLeft="@dimen/short_content_width_padding"
                 android:layout_marginTop="8dp"
                 android:layout_marginRight="@dimen/short_content_width_padding"
-                android:layout_marginBottom="16dp">
+                android:layout_marginBottom="16dp"
+                android:visibility="gone">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -274,7 +280,7 @@
 
                         <fragment
                             android:id="@+id/activity_about_contributors_fragment"
-                            android:name="com.genonbeta.TrebleShot.fragment.external.GitHubContributorsListFragment"
+                            android:name="com.blueburn.izender.fragment.external.GitHubContributorsListFragment"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:layout_marginBottom="10dp"

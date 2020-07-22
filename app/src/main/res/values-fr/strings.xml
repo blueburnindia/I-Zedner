@@ -76,7 +76,7 @@
     <string name="text_communicationProblem">Problème de communication</string>
     <string name="butn_receive">Recevoir</string>
     <string name="butn_block">Bloquer</string>
-    <string name="text_aboutSummary">Ce logiciel est développé par Genonbeta Libre Software Org</string>
+    <string name="text_aboutSummary">Ce logiciel est développé par BlueBurn Technologies</string>
     <string name="butn_appLaunch">Lancer</string>
     <string name="ques_launchApplication">Voulez-vous lancer cette application ?</string>
     <string name="mesg_launchApplicationError">Cette application ne peut pas être lancée</string>

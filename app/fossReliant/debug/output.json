@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.blueburn.izender.debug",
+  "variantName": "fossReliantDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 98,
+      "versionName": "98",
+      "enabled": true,
+      "outputFile": "app-fossReliant-debug.apk"
+    }
+  ]
+}

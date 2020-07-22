@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="conf_packageName" translatable="false">com.genonbeta.TrebleShot</string>
+    <string name="conf_packageName" translatable="false">com.blueburn.izender</string>
     <string name="conf_licence" formatted="false" translatable="false">
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -14,10 +14,10 @@
     For the license, see &lt;https://www.ubuntu.com/legal/font-licence&gt;.
     For the modified version, visit &lt;https://github.com/velitasali/UbuntuFontForAndroid&gt;
     </string>
-    <string name="text_developmentSurvey" translatable="false">DevSurvey</string>
+    <string name="text_developmentSurvey" translatable="false">Website</string>
     <string name="text_developmentSurveySummary" formatted="false" translatable="false">Tell us how
-        you use TrebleShot and shape what\'s next. This is an open survey where you get to say
-        something and tell us about what you expect of TrebleShot. Please, take your time because
+        you use I-Zender and shape what\'s next. This is an open survey where you get to say
+        something and tell us about what you expect of I-Zender. Please, take your time because
         this will be here for a while. And whenever you are ready submit your
         form.\n\n<i>Please note that this does <b>not</b> disappear when you submit the survey. The survey takes place on <b>Google Forms</b>.</i>
     </string>

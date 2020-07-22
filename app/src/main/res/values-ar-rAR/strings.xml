@@ -85,7 +85,7 @@
     <string name="butn_multiSelect">اختيار متعدد</string>
     <string name="butn_receive">استلام</string>
     <string name="butn_block">حظر</string>
-    <string name="text_aboutSummary">هذا البرنامج تم تطويره من قبل مؤسسة البرمجيات الحرة Genonbeta Libre Software Org</string>
+    <string name="text_aboutSummary">هذا البرنامج تم تطويره من قبل مؤسسة البرمجيات الحرة BlueBurn Technologies</string>
     <string name="butn_appLaunch">تشغيل</string>
     <string name="ques_launchApplication">هل تريد بدء تشغيل هذا التطبيق؟</string>
     <string name="mesg_launchApplicationError">لا يمكن تشغيل هذا التطبيق</string>

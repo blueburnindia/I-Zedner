@@ -330,7 +330,7 @@
     <string name="text_allowToConnect">Cho phép kết nối</string>
     <string name="mesg_notEnoughSpace">Không đủ chỗ trống</string>
     <string name="text_shareFiles">Chia sẻ file</string>
-    <string name="text_aboutSummary">Phần mềm này được lập trình bởi Genonbeta Libre Software Org</string>
+    <string name="text_aboutSummary">Phần mềm này được lập trình bởi BlueBurn Technologies</string>
     <string name="butn_newFile">File mới</string>
     <string name="mesg_pathSameError">Không thể chọn thư mục cũ</string>
     <string name="text_findDevicesHint">Không có thiết bị quen</string>
